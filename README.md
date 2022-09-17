@@ -10,7 +10,7 @@ A Login Page Template That You Can Just Simply Copy And Past It On Your Project 
 
 
 
-```Preview The Page ```
+```Preview Of The Page ```  -https://ortasloginpages.netlify.app
  
 Link Of Project
 
